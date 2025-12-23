@@ -11,8 +11,8 @@ Currently, I am working on academic and personal projects using **Flutter**, **F
 *Undergraduate Student*
 
 
-## 🛠️ Skills
-- **Programming:** Dart, Basic Java, SQL  
+## Skills
+- **Programming Languages:** Dart (Flutter), Python (SQLite integration), C++, C#, SQL (SQLite / Sqflite)
 - **Frameworks:** Flutter  
 - **Tools:** Android Studio, VS Code, GitHub  
 - **Design:** Figma, Canva  
