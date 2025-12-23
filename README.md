@@ -1,8 +1,10 @@
-<img src="avatar.png" width="150" align="left" style="border-radius: 50%; margin-right: 20px;"/>
+<div style="display: flex; align-items: center;">
+  <img src="avatar.png" width="150" style="border-radius: 50%; margin-right: 20px;"/>
+  <h1>Hi, I’m Maryam Masood</h1>
+</div>
 
-# Hi, I’m Maryam Masood
-
-## About Me
+<!-- About Me below avatar -->
+<h2>About Me</h2>
 I am a Computer Science student with a strong interest in **Flutter app development** and **UI/UX design**.  
 I enjoy turning ideas into practical applications and continuously learning new technologies to improve my skills.  
 
