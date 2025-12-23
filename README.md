@@ -2,7 +2,7 @@
   <img src="profile avatar.png" 
        style="width:150px; height:150px; border-radius:50%; object-fit:cover; margin-right:20px;" />
   <h1>Hi, I’m Maryam Masood</h1>
-</div>
+</div>>
 
 <!-- About Me below avatar -->
 <h2>About Me</h2>
