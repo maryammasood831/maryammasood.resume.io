@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
-  <img src="avatar.png" 
+  <img src="profile avatar.png" 
        style="width:150px; height:150px; border-radius:50%; object-fit:cover; margin-right:20px;" />
   <h1>Hi, I’m Maryam Masood</h1>
 </div>
