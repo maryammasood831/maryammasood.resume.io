@@ -1,9 +1,8 @@
 <div style="display: flex; align-items: center;">
- <img src="avatar.png" 
+  <img src="avatar.png" 
        width="150" 
        height="150" 
        style="border-radius: 50%; object-fit: cover; margin-right: 20px;"/>
-
   <h1>Hi, I’m Maryam Masood</h1>
 </div>
 
