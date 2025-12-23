@@ -1,4 +1,4 @@
-<img align="right" width="150" src="avatar.png" />
+<img align="left" width="150" src="avatar.png" />
 
 # Hi, I’m Maryam Masood
 
