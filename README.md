@@ -1,21 +1,4 @@
-<<<<<<< HEAD
-# flutter_application_1
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 <div style="display: flex; align-items: center;">
  <img src="avatar.png" 
      style="width:150px; height:150px; border-radius:50%; border: 4px solid black; object-fit:cover; margin-right:20px;" />
